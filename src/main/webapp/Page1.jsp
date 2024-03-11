@@ -13,6 +13,8 @@
 <a href="Page1.jsp">Page 1</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="Page2.jsp">Page 2</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="Page3.jsp">Page 3</a>
 </h2>
 <h2>Hello World! - Page 1</h2>
 </body>
